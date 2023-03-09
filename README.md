@@ -4,9 +4,7 @@
 
 - 글자 롤링 효과 구현
 
-## 🔍 Framer Motion 구현
-
-- 글자 롤링 효과 구현
+## 🔍 동작 설명
 
 <img src="/process1.png" width="400" height="400">
 
