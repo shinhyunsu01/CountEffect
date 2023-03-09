@@ -46,7 +46,7 @@ const Odom: React.FC<Iprops> = ({ num }) => {
     letterArray.forEach((letter, index) => {
       if (letter !== ",") {
         let letters = letter + generateString((index + 1) * 3) + letter;
-
+        console.log("letters", letters);
         odometerArray.push(letters);
       } else {
         let letters = (index + 1) * 3,
